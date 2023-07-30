@@ -1,0 +1,21 @@
+.dropdownContainer {
+    background-color: #93e499;
+    color: #ffffff;
+}
+
+.dropdown {
+    background-color: #93e499;
+    color: #ffffff;
+    border: 0;
+    width: 60%;
+}
+
+.dropdown option {
+    color: rgb(19, 17, 17);
+}
+
+.dropdown option:hover
+{
+    background-color: rgb(255, 248, 248);
+    color: #fbfdfd;
+}
